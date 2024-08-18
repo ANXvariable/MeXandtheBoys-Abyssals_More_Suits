@@ -1,0 +1,1 @@
+MoreSuits by AbyssalCreature for friends using x753's More_Suits mod
