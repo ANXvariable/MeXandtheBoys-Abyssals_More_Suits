@@ -1,8 +1,8 @@
 {
     "name": "Abyssals_More_Suits",
-    "version_number": "1.1.0",
+    "version_number": "2.0.0",
     "website_url": "https://github.com/x753/Lethal-Company-More-Suits",
-    "description": "MoreSuits by AbyssalCreature for friends using x753's More_Suits mod",
+    "description": "MoreSuits by AbyssalCreature and Ehseezed for friends using x753's More_Suits mod",
     "dependencies": [
         "x753-More_Suits-1.4.3"
     ]
